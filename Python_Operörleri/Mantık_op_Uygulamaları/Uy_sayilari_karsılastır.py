@@ -1,0 +1,5 @@
+a = int(input('a: ')) 
+b = int(input('b: '))
+c = int(input('c: '))
+dogrula = (a>b) and (a>c)
+print(f'A Sayısı Bütün Sayılardam Büyüktür : {dogrula}')

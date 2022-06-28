@@ -1,5 +1,5 @@
 #list = ['Onur' , 'Doğan' , 'Nedir bu çile']
-#tuple = ('Bu' , 'liste', 'Güncellenemez')
+#  *** tuple = ('Bu' , 'liste', 'Güncellenemez')
 # Dize ve tuple arasındaki fark güncelleme yani herhangi bir veriyi değiştiremezsin 
 
 # Dictionary listesi  
@@ -54,3 +54,4 @@ print('*'*50)
 ogno = input('öğrenci no : ')
 ogrenci = ogrenciler[num]
 print(f"Aradığınız {ogno} nolu Öğrenci adı :{ogrenci['ad']} , soyadı: {ogrenci['soyad']} , telefon: {ogrenci['telefon']} Budur.")
+

@@ -1,8 +1,5 @@
 # sets dizleri
 
-from os import remove
-
-
 fruits = {'orange','apple','banana'}
 # print(fruits[0]) indexlenemez bunların karakter sayıları yoktur.
 
